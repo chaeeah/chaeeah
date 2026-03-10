@@ -1,24 +1,35 @@
-## 👋 Hi, I’m Chaeah
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&size=40&pause=1000&color=A0D4FF&center=true&vCenter=true&width=435&height=70&lines=Hi%2C+I'm+Chaeah" alt="Typing SVG" /></a>
+</p>
 
-### 👀 Introduction
-- Sookmyung Women's Univ. Computer Science 23
-- Studying Backend
+## About me
+- Undergraduate student at Sookmyung Women's University, Department of Computer Science (2023 - Present)
+- **13th President** [@APPS](https://github.com/APPS-sookmyung)
+- Studying **Backend, DevOps and Infrastructure**
 
-### 🔧 Skills
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"><br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+<br/>
 
-<!---
-- 👋 Hi, I’m @blue850
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Skills
+<br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,fastapi,mysql,postman,react,tailwind" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,notion,figma,aws,docker,nginx,netlify" />
+  </a>
+</p>
+
+<br/><br/>
 
 
-blue850/blue850 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/chaeeah" width="300"/>
+</a>
