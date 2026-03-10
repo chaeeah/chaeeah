@@ -33,7 +33,8 @@
 - **Special Prize** | 4th Sookmyung Women's Univ. Programming Contest SMUPC (2024.05)
   
 <br/><br/>
-
+<p align="center">
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/chaeeah" width="300"/>
+  <img src="https://render.gitanimals.org/farms/chaeeah" width="500"/>
 </a>
+</p>
