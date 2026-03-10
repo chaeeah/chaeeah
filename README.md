@@ -26,9 +26,13 @@
     <img src="https://skillicons.dev/icons?i=git,github,notion,figma,aws,docker,nginx,netlify" />
   </a>
 </p>
+<br/>
 
+## Awards
+- **Grand Prize, Minister of Education Award** | SNU X AWS Korea DATA VENTURE Problem Solving Challenge (2025.11)
+- **Special Prize** | 4th Sookmyung Women's Univ. Programming Contest SMUPC (2024.05)
+  
 <br/><br/>
-
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/chaeeah" width="300"/>
